@@ -3,7 +3,7 @@
 > A bread-themed Battleship clone
 
 ## Team
-
+  - Jordan Poling
   - Devon Yu
   - Stephanie Wong
   - Ephraim Glick
